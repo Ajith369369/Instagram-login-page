@@ -1,0 +1,131 @@
+body {
+  overflow-x: hidden;
+}
+
+body > header > div > div.col-6 > div {
+  width: 350px;
+}
+
+body > header > div > div.col-6 > div > img {
+  width: 200px;
+  margin-top: 10px;
+}
+
+body
+  > header
+  > div
+  > div.col-6.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
+  > div.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
+  > div.mb-3.mt-3.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center > input {
+    margin: 5px;
+}
+
+body
+  > header
+  > div
+  > div.col-6.d-flex.flex-wrap.justify-content-center.align-items-center
+  > div {
+  height: auto;
+}
+
+body
+  > header
+  > div
+  > div.col-6.d-flex.flex-wrap.justify-content-center.align-items-center
+  > div
+  > div.mb-3.mt-3
+  > {
+  /* width: 100%; */
+  margin: 0px 20px;
+}
+
+body
+  > header
+  > div
+  > div.col-6.d-flex.flex-wrap.justify-content-center.align-items-center
+  > div
+  > div.mb-3.mt-3
+  > input {
+  width: calc(100% - 24px);
+  flex-grow: 1;
+}
+
+body
+  > header
+  > div
+  > div.col-6.d-flex.flex-wrap.justify-content-center.align-items-center
+  > div
+  > div.mb-3.mt-3.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center {
+  width: calc(100% - 40px);
+  margin-left: 20px;
+  margin-right: 20px;
+  flex-grow: 1;
+}
+
+body > header > div > div.col-6.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center > div.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center > div.mb-3.mt-3.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center > button {
+  flex-grow: 1;
+  width: calc(100% - 24px);
+}
+
+
+
+body
+  > header
+  > div
+  > div.col-6.d-flex.flex-wrap.justify-content-center.align-items-center
+  > div
+  > a {
+  text-decoration: none;
+}
+
+body
+  > header
+  > div
+  > div.col-6.d-flex.flex-wrap.justify-content-center.align-items-center
+  > div
+  > a
+  > img {
+  width: 18px;
+  height: 18px;
+  margin-right: 8px;
+}
+
+body
+  > header
+  > div
+  > div.col-6.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
+  > div.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
+  > div:nth-child(6) {
+  width: 100%;
+}
+
+body
+  > header
+  > div
+  > div.col-6.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
+  > div.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
+  > div:nth-child(6)
+  > p {
+  margin-bottom: 0px;
+  margin-right: 8px;
+}
+
+body
+  > header
+  > div
+  > div.col-6.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
+  > div:nth-child(2)
+  > div
+  > img {
+  height: 40px;
+}
+
+body
+  > header
+  > div
+  > div.col-6.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
+  > div:nth-child(2)
+  > div
+  > img:nth-child(1) {
+  margin-right: 8px;
+}
