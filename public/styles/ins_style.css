@@ -2,11 +2,11 @@ body {
   overflow-x: hidden;
 }
 
-body > header > div > div.col-6 > div {
+body > header > div > div.col-md-6.col-sm-12.col-12 > div {
   width: 350px;
 }
 
-body > header > div > div.col-6 > div > img {
+body > header > div > div.col-md-6.col-sm-12.col-12 > div > img {
   width: 200px;
   margin-top: 10px;
 }
@@ -14,7 +14,7 @@ body > header > div > div.col-6 > div > img {
 body
   > header
   > div
-  > div.col-6.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
+  > div.col-md-6.col-sm-12.col-12.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
   > div.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
   > div.mb-3.mt-3.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center > input {
     margin: 5px;
@@ -23,7 +23,7 @@ body
 body
   > header
   > div
-  > div.col-6.d-flex.flex-wrap.justify-content-center.align-items-center
+  > div.col-md-6.col-sm-12.col-12.d-flex.flex-wrap.justify-content-center.align-items-center
   > div {
   height: auto;
 }
@@ -31,7 +31,7 @@ body
 body
   > header
   > div
-  > div.col-6.d-flex.flex-wrap.justify-content-center.align-items-center
+  > div.col-md-6.col-sm-12.col-12.d-flex.flex-wrap.justify-content-center.align-items-center
   > div
   > div.mb-3.mt-3
   > {
@@ -42,7 +42,7 @@ body
 body
   > header
   > div
-  > div.col-6.d-flex.flex-wrap.justify-content-center.align-items-center
+  > div.col-md-6.col-sm-12.col-12.d-flex.flex-wrap.justify-content-center.align-items-center
   > div
   > div.mb-3.mt-3
   > input {
@@ -53,7 +53,7 @@ body
 body
   > header
   > div
-  > div.col-6.d-flex.flex-wrap.justify-content-center.align-items-center
+  > div.col-md-6.col-sm-12.col-12.d-flex.flex-wrap.justify-content-center.align-items-center
   > div
   > div.mb-3.mt-3.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center {
   width: calc(100% - 40px);
@@ -62,7 +62,7 @@ body
   flex-grow: 1;
 }
 
-body > header > div > div.col-6.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center > div.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center > div.mb-3.mt-3.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center > button {
+body > header > div > div.col-md-6.col-sm-12.col-12.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center > div.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center > div.mb-3.mt-3.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center > button {
   flex-grow: 1;
   width: calc(100% - 24px);
 }
@@ -72,7 +72,7 @@ body > header > div > div.col-6.d-flex.flex-wrap.flex-column.justify-content-cen
 body
   > header
   > div
-  > div.col-6.d-flex.flex-wrap.justify-content-center.align-items-center
+  > div.col-md-6.col-sm-12.col-12.d-flex.flex-wrap.justify-content-center.align-items-center
   > div
   > a {
   text-decoration: none;
@@ -81,7 +81,7 @@ body
 body
   > header
   > div
-  > div.col-6.d-flex.flex-wrap.justify-content-center.align-items-center
+  > div.col-md-6.col-sm-12.col-12.d-flex.flex-wrap.justify-content-center.align-items-center
   > div
   > a
   > img {
@@ -93,7 +93,7 @@ body
 body
   > header
   > div
-  > div.col-6.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
+  > div.col-md-6.col-sm-12.col-12.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
   > div.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
   > div:nth-child(6) {
   width: 100%;
@@ -102,7 +102,7 @@ body
 body
   > header
   > div
-  > div.col-6.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
+  > div.col-md-6.col-sm-12.col-12.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
   > div.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
   > div:nth-child(6)
   > p {
@@ -113,7 +113,7 @@ body
 body
   > header
   > div
-  > div.col-6.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
+  > div.col-md-6.col-sm-12.col-12.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
   > div:nth-child(2)
   > div
   > img {
@@ -123,7 +123,7 @@ body
 body
   > header
   > div
-  > div.col-6.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
+  > div.col-md-6.col-sm-12.col-12.d-flex.flex-wrap.flex-column.justify-content-center.align-items-center
   > div:nth-child(2)
   > div
   > img:nth-child(1) {
